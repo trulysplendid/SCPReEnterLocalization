@@ -1,16 +1,21 @@
-﻿# Game Chinese (China) translation.
+# Game English translation.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
+"Project-Id-Version: scp-reenter\n"
 "POT-Creation-Date: 2026-08-13 05:46\n"
-"PO-Revision-Date: 2026-08-13 05:46\n"
-"Language-Team: \n"
-"Language: zh-CN\n"
+"PO-Revision-Date: 2026-08-13 09:27\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: scp-reenter\n"
+"X-Crowdin-Project-ID: 919951\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /[trulysplendid.SCPReEnterLocalization] main/en/Game.po\n"
+"X-Crowdin-File-ID: 5\n"
 
 #. Key:	Class_ChaosInsurgency_Name
 #. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
