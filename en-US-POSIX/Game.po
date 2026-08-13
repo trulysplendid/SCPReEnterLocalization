@@ -1,0 +1,1099 @@
+﻿# Game English (United States, Computer) translation.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2026-08-13 05:46\n"
+"PO-Revision-Date: 2026-08-13 05:46\n"
+"Language-Team: \n"
+"Language: en-US-POSIX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	Class_ChaosInsurgency_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_ChaosInsurgency_Name"
+msgid "Chaos Insurgency"
+msgstr "[ClassTable,Class_ChaosInsurgency_Name]"
+
+#. Key:	Class_ClassD_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_ClassD_Name"
+msgid "Class D"
+msgstr "[ClassTable,Class_ClassD_Name]"
+
+#. Key:	Class_MobileTaskForce_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_MobileTaskForce_Name"
+msgid "Mobile Task Force"
+msgstr "[ClassTable,Class_MobileTaskForce_Name]"
+
+#. Key:	Class_MobileTaskForceCaptain_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_MobileTaskForceCaptain_Name"
+msgid "Mobile Task Force Captain"
+msgstr "[ClassTable,Class_MobileTaskForceCaptain_Name]"
+
+#. Key:	Class_MobileTaskForceLieutenant_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_MobileTaskForceLieutenant_Name"
+msgid "Mobile Task Force Lieutenant"
+msgstr "[ClassTable,Class_MobileTaskForceLieutenant_Name]"
+
+#. Key:	Class_MobileTaskForcePrivate_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_MobileTaskForcePrivate_Name"
+msgid "Mobile Task Force Private"
+msgstr "[ClassTable,Class_MobileTaskForcePrivate_Name]"
+
+#. Key:	Class_MovieMaker_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_MovieMaker_Name"
+msgid "Movie Maker"
+msgstr "[ClassTable,Class_MovieMaker_Name]"
+
+#. Key:	Class_Scientist_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_Scientist_Name"
+msgid "Scientist"
+msgstr "[ClassTable,Class_Scientist_Name]"
+
+#. Key:	Class_Spectator_Name
+#. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
+#: /Game/StringTables/ClassTable.ClassTable
+msgctxt "ClassTable,Class_Spectator_Name"
+msgid "Spectator"
+msgstr "[ClassTable,Class_Spectator_Name]"
+
+#. Key:	Aim
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Aim"
+msgid "Aim"
+msgstr "[ControlsTable,Aim]"
+
+#. Key:	Back
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Back"
+msgid "Back"
+msgstr "[ControlsTable,Back]"
+
+#. Key:	Crouch
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Crouch"
+msgid "Crouch"
+msgstr "[ControlsTable,Crouch]"
+
+#. Key:	DropItem
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,DropItem"
+msgid "Drop Item"
+msgstr "[ControlsTable,DropItem]"
+
+#. Key:	Fire
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Fire"
+msgid "Fire"
+msgstr "[ControlsTable,Fire]"
+
+#. Key:	Forward
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Forward"
+msgid "Forward"
+msgstr "[ControlsTable,Forward]"
+
+#. Key:	GlobalVoiceChat
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,GlobalVoiceChat"
+msgid "Global Voice Chat"
+msgstr "[ControlsTable,GlobalVoiceChat]"
+
+#. Key:	Interact
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Interact"
+msgid "Interact"
+msgstr "[ControlsTable,Interact]"
+
+#. Key:	Inventory
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Inventory"
+msgid "Inventory"
+msgstr "[ControlsTable,Inventory]"
+
+#. Key:	Jump
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Jump"
+msgid "Jump"
+msgstr "[ControlsTable,Jump]"
+
+#. Key:	Left
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Left"
+msgid "Left"
+msgstr "[ControlsTable,Left]"
+
+#. Key:	NextRadioChannel
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,NextRadioChannel"
+msgid "Next Radio Channel"
+msgstr "[ControlsTable,NextRadioChannel]"
+
+#. Key:	PreviousRadioChannel
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,PreviousRadioChannel"
+msgid "Previous Radio Channel"
+msgstr "[ControlsTable,PreviousRadioChannel]"
+
+#. Key:	PullHealing
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,PullHealing"
+msgid "Pull Healing"
+msgstr "[ControlsTable,PullHealing]"
+
+#. Key:	PullKeycard
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,PullKeycard"
+msgid "Pull Keycard"
+msgstr "[ControlsTable,PullKeycard]"
+
+#. Key:	RadioSwitch
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,RadioSwitch"
+msgid "Radio Switch"
+msgstr "[ControlsTable,RadioSwitch]"
+
+#. Key:	RadioVoiceChat
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,RadioVoiceChat"
+msgid "Radio Voice Chat"
+msgstr "[ControlsTable,RadioVoiceChat]"
+
+#. Key:	Reload
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Reload"
+msgid "Reload"
+msgstr "[ControlsTable,Reload]"
+
+#. Key:	Right
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Right"
+msgid "Right"
+msgstr "[ControlsTable,Right]"
+
+#. Key:	Sprint
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,Sprint"
+msgid "Sprint"
+msgstr "[ControlsTable,Sprint]"
+
+#. Key:	TextChat
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,TextChat"
+msgid "Text Chat"
+msgstr "[ControlsTable,TextChat]"
+
+#. Key:	UseItem
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,UseItem"
+msgid "Use Item"
+msgstr "[ControlsTable,UseItem]"
+
+#. Key:	WeaponSlot1
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,WeaponSlot1"
+msgid "Weapon Slot 1"
+msgstr "[ControlsTable,WeaponSlot1]"
+
+#. Key:	WeaponSlot2
+#. SourceLocation:	/Game/StringTables/ControlsTable.ControlsTable
+#: /Game/StringTables/ControlsTable.ControlsTable
+msgctxt "ControlsTable,WeaponSlot2"
+msgid "Weapon Slot 2"
+msgstr "[ControlsTable,WeaponSlot2]"
+
+#. Key:	Attachment_COG-2-5X_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_COG-2-5X_Name"
+msgid "COG-2-5X"
+msgstr "[ItemTable,Attachment_COG-2-5X_Name]"
+
+#. Key:	Attachment_HolographicSight_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_HolographicSight_Name"
+msgid "Holographic Sight"
+msgstr "[ItemTable,Attachment_HolographicSight_Name]"
+
+#. Key:	Attachment_MicroReflex_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_MicroReflex_Name"
+msgid "Micro Reflex"
+msgstr "[ItemTable,Attachment_MicroReflex_Name]"
+
+#. Key:	Attachment_PatrolRedDot_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_PatrolRedDot_Name"
+msgid "Patrol RedDot"
+msgstr "[ItemTable,Attachment_PatrolRedDot_Name]"
+
+#. Key:	Attachment_WeaponFlashlight_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_WeaponFlashlight_Name"
+msgid "Weapon Flashlight"
+msgstr "[ItemTable,Attachment_WeaponFlashlight_Name]"
+
+#. Key:	Attachment_WeaponLaser_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Attachment_WeaponLaser_Name"
+msgid "Weapon Laser"
+msgstr "[ItemTable,Attachment_WeaponLaser_Name]"
+
+#. Key:	Item_Adrenaline_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_Adrenaline_Name"
+msgid "Adrenaline"
+msgstr "[ItemTable,Item_Adrenaline_Name]"
+
+#. Key:	Item_HackingDevice_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_HackingDevice_Name"
+msgid "Hacking Device"
+msgstr "[ItemTable,Item_HackingDevice_Name]"
+
+#. Key:	Item_HighExplosiveGranade_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_HighExplosiveGranade_Name"
+msgid "High Explosive Granade"
+msgstr "[ItemTable,Item_HighExplosiveGranade_Name]"
+
+#. Key:	Item_Medkit_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_Medkit_Name"
+msgid "Medkit"
+msgstr "[ItemTable,Item_Medkit_Name]"
+
+#. Key:	Item_NightVisionGoggles_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_NightVisionGoggles_Name"
+msgid "Night Vision Goggles"
+msgstr "[ItemTable,Item_NightVisionGoggles_Name]"
+
+#. Key:	Item_WalkieTalkie_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_WalkieTalkie_Name"
+msgid "Walkie-Talkie"
+msgstr "[ItemTable,Item_WalkieTalkie_Name]"
+
+#. Key:	Item_ZipTie_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Item_ZipTie_Name"
+msgid "Zip-Tie"
+msgstr "[ItemTable,Item_ZipTie_Name]"
+
+#. Key:	KeyCard_ContainmentSpecialistKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_ContainmentSpecialistKeyCard_Name"
+msgid "Containment Specialist KeyCard"
+msgstr "[ItemTable,KeyCard_ContainmentSpecialistKeyCard_Name]"
+
+#. Key:	KeyCard_FieldAgentKeycard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_FieldAgentKeycard_Name"
+msgid "Field Agent Keycard"
+msgstr "[ItemTable,KeyCard_FieldAgentKeycard_Name]"
+
+#. Key:	KeyCard_JanitorKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_JanitorKeyCard_Name"
+msgid "Janitor KeyCard"
+msgstr "[ItemTable,KeyCard_JanitorKeyCard_Name]"
+
+#. Key:	KeyCard_NTFCaptainKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_NTFCaptainKeyCard_Name"
+msgid "NTF Captain KeyCard"
+msgstr "[ItemTable,KeyCard_NTFCaptainKeyCard_Name]"
+
+#. Key:	KeyCard_NTFLieutenantKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_NTFLieutenantKeyCard_Name"
+msgid "NTF Lieutenant KeyCard"
+msgstr "[ItemTable,KeyCard_NTFLieutenantKeyCard_Name]"
+
+#. Key:	KeyCard_NTFPrivateKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_NTFPrivateKeyCard_Name"
+msgid "NTF Private KeyCard"
+msgstr "[ItemTable,KeyCard_NTFPrivateKeyCard_Name]"
+
+#. Key:	KeyCard_O5CouncilKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_O5CouncilKeyCard_Name"
+msgid "O5 Council KeyCard"
+msgstr "[ItemTable,KeyCard_O5CouncilKeyCard_Name]"
+
+#. Key:	KeyCard_ResearcherKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_ResearcherKeyCard_Name"
+msgid "Researcher KeyCard"
+msgstr "[ItemTable,KeyCard_ResearcherKeyCard_Name]"
+
+#. Key:	KeyCard_SecurityOfficerKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_SecurityOfficerKeyCard_Name"
+msgid "Security Officer KeyCard"
+msgstr "[ItemTable,KeyCard_SecurityOfficerKeyCard_Name]"
+
+#. Key:	KeyCard_SeniorResearcherKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_SeniorResearcherKeyCard_Name"
+msgid "Senior Researcher KeyCard"
+msgstr "[ItemTable,KeyCard_SeniorResearcherKeyCard_Name]"
+
+#. Key:	KeyCard_SiteDirectorKeyCard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_SiteDirectorKeyCard_Name"
+msgid "Site Director KeyCard"
+msgstr "[ItemTable,KeyCard_SiteDirectorKeyCard_Name]"
+
+#. Key:	KeyCard_TacticalResponseOfficerKeycard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_TacticalResponseOfficerKeycard_Name"
+msgid "Tactical Response Officer Keycard"
+msgstr "[ItemTable,KeyCard_TacticalResponseOfficerKeycard_Name]"
+
+#. Key:	KeyCard_ZoneManagerKeycard_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,KeyCard_ZoneManagerKeycard_Name"
+msgid "Zone Manager Keycard"
+msgstr "[ItemTable,KeyCard_ZoneManagerKeycard_Name]"
+
+#. Key:	SCP_SCP-034_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,SCP_SCP-034_Name"
+msgid "SCP-034"
+msgstr "[ItemTable,SCP_SCP-034_Name]"
+
+#. Key:	SCP_SCP-500_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,SCP_SCP-500_Name"
+msgid "SCP-500"
+msgstr "[ItemTable,SCP_SCP-500_Name]"
+
+#. Key:	Weapon_AR-15_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Weapon_AR-15_Name"
+msgid "AR-15"
+msgstr "[ItemTable,Weapon_AR-15_Name]"
+
+#. Key:	Weapon_G6Pistol_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Weapon_G6Pistol_Name"
+msgid "G6 Pistol"
+msgstr "[ItemTable,Weapon_G6Pistol_Name]"
+
+#. Key:	Weapon_M37Shotgun_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Weapon_M37Shotgun_Name"
+msgid "M37 Shotgun"
+msgstr "[ItemTable,Weapon_M37Shotgun_Name]"
+
+#. Key:	Weapon_SA-4_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Weapon_SA-4_Name"
+msgid "SA-4"
+msgstr "[ItemTable,Weapon_SA-4_Name]"
+
+#. Key:	Weapon_UNP0_Name
+#. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
+#: /Game/StringTables/ItemsTable.ItemsTable
+msgctxt "ItemTable,Weapon_UNP0_Name"
+msgid "UNP 0"
+msgstr "[ItemTable,Weapon_UNP0_Name]"
+
+#. Key:	Intro_BasedOn
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Intro_BasedOn"
+msgid "Based on"
+msgstr "[MainMenuTable,Intro_BasedOn]"
+
+#. Key:	Intro_Continue
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Intro_Continue"
+msgid "(click space to continue)"
+msgstr "[MainMenuTable,Intro_Continue]"
+
+#. Key:	Main_Credits
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Credits"
+msgid "CREDITS"
+msgstr "[MainMenuTable,Main_Credits]"
+
+#. Key:	Main_Exit
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Exit"
+msgid "EXIT"
+msgstr "[MainMenuTable,Main_Exit]"
+
+#. Key:	Main_Greeting
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Greeting"
+msgid "Hello, {UserName}!"
+msgstr "[MainMenuTable,Main_Greeting]"
+
+#. Key:	Main_Roadmap
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Roadmap"
+msgid "ROADMAP"
+msgstr "[MainMenuTable,Main_Roadmap]"
+
+#. Key:	Main_Servers
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Servers"
+msgid "SERVERS"
+msgstr "[MainMenuTable,Main_Servers]"
+
+#. Key:	Main_Settings
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Main_Settings"
+msgid "SETTINGS"
+msgstr "[MainMenuTable,Main_Settings]"
+
+#. Key:	Return
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Return"
+msgid "Return"
+msgstr "[MainMenuTable,Return]"
+
+#. Key:	ServerItem_Official
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,ServerItem_Official"
+msgid "Official"
+msgstr "[MainMenuTable,ServerItem_Official]"
+
+#. Key:	ServerItem_ServerRules
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,ServerItem_ServerRules"
+msgid "Server Rules"
+msgstr "[MainMenuTable,ServerItem_ServerRules]"
+
+#. Key:	ServerRules
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,ServerRules"
+msgid "SERVER RULES"
+msgstr "[MainMenuTable,ServerRules]"
+
+#. Key:	ServerRules_Back
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,ServerRules_Back"
+msgid "BACK"
+msgstr "[MainMenuTable,ServerRules_Back]"
+
+#. Key:	Servers_Connecting
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_Connecting"
+msgid "CONNECTING TO {ServerName}..."
+msgstr "[MainMenuTable,Servers_Connecting]"
+
+#. Key:	Servers_Connecting_Cancel
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_Connecting_Cancel"
+msgid "Press ESC to cancel"
+msgstr "[MainMenuTable,Servers_Connecting_Cancel]"
+
+#. Key:	Servers_DirectConnect
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_DirectConnect"
+msgid "DIRECT CONNECT"
+msgstr "[MainMenuTable,Servers_DirectConnect]"
+
+#. Key:	Servers_DirectConnect_Connect
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_DirectConnect_Connect"
+msgid "CONNECT"
+msgstr "[MainMenuTable,Servers_DirectConnect_Connect]"
+
+#. Key:	Servers_DirectConnect_IpAddress
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_DirectConnect_IpAddress"
+msgid "IP ADDRESS"
+msgstr "[MainMenuTable,Servers_DirectConnect_IpAddress]"
+
+#. Key:	Servers_Fail
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_Fail"
+msgid "Failed to download server list."
+msgstr "[MainMenuTable,Servers_Fail]"
+
+#. Key:	Servers_Refresh
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_Refresh"
+msgid "REFRESH"
+msgstr "[MainMenuTable,Servers_Refresh]"
+
+#. Key:	Servers_Search
+#. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
+#: /Game/StringTables/MainMenuTable.MainMenuTable
+msgctxt "MainMenuTable,Servers_Search"
+msgid "SEARCH"
+msgstr "[MainMenuTable,Servers_Search]"
+
+#. Key:	Disconnect
+#. SourceLocation:	/Game/StringTables/PauseTable.PauseTable
+#: /Game/StringTables/PauseTable.PauseTable
+msgctxt "PauseTable,Disconnect"
+msgid "DISCONNECT"
+msgstr "[PauseTable,Disconnect]"
+
+#. Key:	Resume
+#. SourceLocation:	/Game/StringTables/PauseTable.PauseTable
+#: /Game/StringTables/PauseTable.PauseTable
+msgctxt "PauseTable,Resume"
+msgid "RESUME"
+msgstr "[PauseTable,Resume]"
+
+#. Key:	Settings
+#. SourceLocation:	/Game/StringTables/PauseTable.PauseTable
+#: /Game/StringTables/PauseTable.PauseTable
+msgctxt "PauseTable,Settings"
+msgid "SETTINGS"
+msgstr "[PauseTable,Settings]"
+
+#. Key:	049_BodyCount
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,049_BodyCount"
+msgid "{Count} {Count}|plural(one=body, other=bodies) nearby"
+msgstr "[SCPTable,049_BodyCount]"
+
+#. Key:	049_CantResurrect
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,049_CantResurrect"
+msgid "This body can't be resurrected..."
+msgstr "[SCPTable,049_CantResurrect]"
+
+#. Key:	1048-A_NextUseTime
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048-A_NextUseTime"
+msgid "Next use available in {0}s"
+msgstr "[SCPTable,1048-A_NextUseTime]"
+
+#. Key:	1048_Creating
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_Creating"
+msgid "CREATING {SCPName} ({Seconds}s LEFT)"
+msgstr "[SCPTable,1048_Creating]"
+
+#. Key:	1048_Material
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_Material"
+msgid "Material"
+msgstr "[SCPTable,1048_Material]"
+
+#. Key:	1048_MaterialCount
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_MaterialCount"
+msgid "{0} materials"
+msgstr "[SCPTable,1048_MaterialCount]"
+
+#. Key:	1048_Pickup
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_Pickup"
+msgid "Pickup"
+msgstr "[SCPTable,1048_Pickup]"
+
+#. Key:	1048_RequiredMaterials
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_RequiredMaterials"
+msgid "You need at least 5 materials to create new instance of SCP-1048."
+msgstr "[SCPTable,1048_RequiredMaterials]"
+
+#. Key:	1048_Switching
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,1048_Switching"
+msgid "SWITCHING..."
+msgstr "[SCPTable,1048_Switching]"
+
+#. Key:	173_CanTeleport
+#. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
+#: /Game/StringTables/SCPTable.SCPTable
+msgctxt "SCPTable,173_CanTeleport"
+msgid "Can Teleport."
+msgstr "[SCPTable,173_CanTeleport]"
+
+#. Key:	Category_Audio
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Category_Audio"
+msgid "AUDIO"
+msgstr "[SettingsTable,Category_Audio]"
+
+#. Key:	Category_Controls
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Category_Controls"
+msgid "CONTROLS"
+msgstr "[SettingsTable,Category_Controls]"
+
+#. Key:	Category_Video
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Category_Video"
+msgid "VIDEO"
+msgstr "[SettingsTable,Category_Video]"
+
+#. Key:	Option_AntiAliasing
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_AntiAliasing"
+msgid "Anti-Aliasing"
+msgstr "[SettingsTable,Option_AntiAliasing]"
+
+#. Key:	Option_CrosshairDot
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_CrosshairDot"
+msgid "Crosshair Dot"
+msgstr "[SettingsTable,Option_CrosshairDot]"
+
+#. Key:	Option_DeadBodyDespawn
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_DeadBodyDespawn"
+msgid "Dead Body Despawn Time"
+msgstr "[SettingsTable,Option_DeadBodyDespawn]"
+
+#. Key:	Option_DeadBodyDespawnInstant
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_DeadBodyDespawnInstant"
+msgid "Instantly"
+msgstr "[SettingsTable,Option_DeadBodyDespawnInstant]"
+
+#. Key:	Option_DeadBodyDespawnNever
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_DeadBodyDespawnNever"
+msgid "Never"
+msgstr "[SettingsTable,Option_DeadBodyDespawnNever]"
+
+#. Key:	Option_FPS
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_FPS"
+msgid "FPS"
+msgstr "[SettingsTable,Option_FPS]"
+
+#. Key:	Option_InputDevice
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_InputDevice"
+msgid "Input Device"
+msgstr "[SettingsTable,Option_InputDevice]"
+
+#. Key:	Option_MainVolume
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_MainVolume"
+msgid "Main Volume"
+msgstr "[SettingsTable,Option_MainVolume]"
+
+#. Key:	Option_OutputDevice
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_OutputDevice"
+msgid "Output Device"
+msgstr "[SettingsTable,Option_OutputDevice]"
+
+#. Key:	Option_Resolution
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_Resolution"
+msgid "Resolution"
+msgstr "[SettingsTable,Option_Resolution]"
+
+#. Key:	Option_ResolutionScale
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_ResolutionScale"
+msgid "Resolution Scale"
+msgstr "[SettingsTable,Option_ResolutionScale]"
+
+#. Key:	Option_Sensitivity
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_Sensitivity"
+msgid "Sensitivity"
+msgstr "[SettingsTable,Option_Sensitivity]"
+
+#. Key:	Option_ShadowQuality
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_ShadowQuality"
+msgid "Shadow Quality"
+msgstr "[SettingsTable,Option_ShadowQuality]"
+
+#. Key:	Option_Shadows
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_Shadows"
+msgid "Shadows"
+msgstr "[SettingsTable,Option_Shadows]"
+
+#. Key:	Option_ShowFPS
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_ShowFPS"
+msgid "Show FPS"
+msgstr "[SettingsTable,Option_ShowFPS]"
+
+#. Key:	Option_StaticCrosshair
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_StaticCrosshair"
+msgid "Static Crosshair"
+msgstr "[SettingsTable,Option_StaticCrosshair]"
+
+#. Key:	Option_TextureQuality
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_TextureQuality"
+msgid "Texture Quality"
+msgstr "[SettingsTable,Option_TextureQuality]"
+
+#. Key:	Option_TextureQuality_Epic
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_TextureQuality_Epic"
+msgid "Epic"
+msgstr "[SettingsTable,Option_TextureQuality_Epic]"
+
+#. Key:	Option_TextureQuality_High
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_TextureQuality_High"
+msgid "High"
+msgstr "[SettingsTable,Option_TextureQuality_High]"
+
+#. Key:	Option_TextureQuality_Low
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_TextureQuality_Low"
+msgid "Low"
+msgstr "[SettingsTable,Option_TextureQuality_Low]"
+
+#. Key:	Option_TextureQuality_Medium
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_TextureQuality_Medium"
+msgid "Medium"
+msgstr "[SettingsTable,Option_TextureQuality_Medium]"
+
+#. Key:	Option_VoiceChatVolume
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_VoiceChatVolume"
+msgid "Voice Chat Volume"
+msgstr "[SettingsTable,Option_VoiceChatVolume]"
+
+#. Key:	Option_VSync
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_VSync"
+msgid "VSync"
+msgstr "[SettingsTable,Option_VSync]"
+
+#. Key:	Option_WindowMode
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Option_WindowMode"
+msgid "Window Mode"
+msgstr "[SettingsTable,Option_WindowMode]"
+
+#. Key:	ResetKeybinds
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,ResetKeybinds"
+msgid "Reset to default"
+msgstr "[SettingsTable,ResetKeybinds]"
+
+#. Key:	Section_Crosshair
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Crosshair"
+msgid "CROSSHAIR"
+msgstr "[SettingsTable,Section_Crosshair]"
+
+#. Key:	Section_Display
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Display"
+msgid "DISPLAY"
+msgstr "[SettingsTable,Section_Display]"
+
+#. Key:	Section_Graphics
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Graphics"
+msgid "GRAPHICS"
+msgstr "[SettingsTable,Section_Graphics]"
+
+#. Key:	Section_Keybinds
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Keybinds"
+msgid "KEYBINDS"
+msgstr "[SettingsTable,Section_Keybinds]"
+
+#. Key:	Section_Mouse
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Mouse"
+msgid "MOUSE"
+msgstr "[SettingsTable,Section_Mouse]"
+
+#. Key:	Section_Optimization
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Optimization"
+msgid "OPTIMIZATION"
+msgstr "[SettingsTable,Section_Optimization]"
+
+#. Key:	Section_Volume
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,Section_Volume"
+msgid "VOLUME"
+msgstr "[SettingsTable,Section_Volume]"
+
+#. Key:	TestMicrophone
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,TestMicrophone"
+msgid "Test Microphone"
+msgstr "[SettingsTable,TestMicrophone]"
+
+#. Key:	TestMicrophone_Start
+#. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
+#: /Game/StringTables/SettingsTable.SettingsTable
+msgctxt "SettingsTable,TestMicrophone_Start"
+msgid "Start"
+msgstr "[SettingsTable,TestMicrophone_Start]"
+
+#. Key:	UI_ClassInfo_YouAre
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_ClassInfo_YouAre"
+msgid "YOU ARE"
+msgstr "[UITable,UI_ClassInfo_YouAre]"
+
+#. Key:	UI_Inventory_Drop
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Inventory_Drop"
+msgid "DROP"
+msgstr "[UITable,UI_Inventory_Drop]"
+
+#. Key:	UI_Inventory_LoadedAmmo
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Inventory_LoadedAmmo"
+msgid "Loaded: {AmmoCount}"
+msgstr "[UITable,UI_Inventory_LoadedAmmo]"
+
+#. Key:	UI_Lobby_Loading
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Lobby_Loading"
+msgid "Loading..."
+msgstr "[UITable,UI_Lobby_Loading]"
+
+#. Key:	UI_Lobby_RoundStartTimer
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Lobby_RoundStartTimer"
+msgid "Time to round start: {Seconds} seconds"
+msgstr "[UITable,UI_Lobby_RoundStartTimer]"
+
+#. Key:	UI_Lobby_ServerName
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Lobby_ServerName"
+msgid "You are playing on: {ServerName}!"
+msgstr "[UITable,UI_Lobby_ServerName]"
+
+#. Key:	UI_PlayerList_MMB
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_PlayerList_MMB"
+msgid "MMB to select"
+msgstr "[UITable,UI_PlayerList_MMB]"
+
+#. Key:	UI_PlayerList_PlayersOnServerName
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_PlayerList_PlayersOnServerName"
+msgid "Players on {ServerName}"
+msgstr "[UITable,UI_PlayerList_PlayersOnServerName]"
+
+#. Key:	UI_Spectator_KilledBy
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Spectator_KilledBy"
+msgid "Killed by {nickname} ({class})"
+msgstr "[UITable,UI_Spectator_KilledBy]"
+
+#. Key:	UI_Spectator_RespawnTime
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Spectator_RespawnTime"
+msgid "Time to respawn: {0}s"
+msgstr "[UITable,UI_Spectator_RespawnTime]"
+
+#. Key:	UI_Spectator_SpawningIn
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_Spectator_SpawningIn"
+msgid "Spawning in {0}"
+msgstr "[UITable,UI_Spectator_SpawningIn]"
+
+#. Key:	UI_WeaponModification_Barrel
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_Barrel"
+msgid "Barrel"
+msgstr "[UITable,UI_WeaponModification_Barrel]"
+
+#. Key:	UI_WeaponModification_EditingSlot
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_EditingSlot"
+msgid "Editing slot {Index} - {ItemName}"
+msgstr "[UITable,UI_WeaponModification_EditingSlot]"
+
+#. Key:	UI_WeaponModification_Mag
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_Mag"
+msgid "Mag"
+msgstr "[UITable,UI_WeaponModification_Mag]"
+
+#. Key:	UI_WeaponModification_MainText
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_MainText"
+msgid "WEAPON MODIFICATION"
+msgstr "[UITable,UI_WeaponModification_MainText]"
+
+#. Key:	UI_WeaponModification_Sight
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_Sight"
+msgid "Sight"
+msgstr "[UITable,UI_WeaponModification_Sight]"
+
+#. Key:	UI_WeaponModification_Special
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_Special"
+msgid "Special"
+msgstr "[UITable,UI_WeaponModification_Special]"
+
+#. Key:	UI_WeaponModification_Stock
+#. SourceLocation:	/Game/StringTables/UITable.UITable
+#: /Game/StringTables/UITable.UITable
+msgctxt "UITable,UI_WeaponModification_Stock"
+msgid "Stock"
+msgstr "[UITable,UI_WeaponModification_Stock]"
+
