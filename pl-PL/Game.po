@@ -1,16 +1,21 @@
-﻿# Game Polish (Poland) translation.
+# Game English translation.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
+"Project-Id-Version: scp-reenter\n"
 "POT-Creation-Date: 2026-08-13 05:46\n"
-"PO-Revision-Date: 2026-08-13 05:46\n"
-"Language-Team: \n"
-"Language: pl-PL\n"
+"PO-Revision-Date: 2026-08-13 09:27\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: scp-reenter\n"
+"X-Crowdin-Project-ID: 919951\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /[trulysplendid.SCPReEnterLocalization] main/en/Game.po\n"
+"X-Crowdin-File-ID: 5\n"
 
 #. Key:	Class_ChaosInsurgency_Name
 #. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
@@ -59,7 +64,7 @@ msgstr "Szeregowy Mobilnej Formacji Operacyjnej"
 #: /Game/StringTables/ClassTable.ClassTable
 msgctxt "ClassTable,Class_MovieMaker_Name"
 msgid "Movie Maker"
-msgstr "Movie Maker"
+msgstr ""
 
 #. Key:	Class_Scientist_Name
 #. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
@@ -248,7 +253,7 @@ msgstr "Slot Broni 2"
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Attachment_COG-2-5X_Name"
 msgid "COG-2-5X"
-msgstr "COG-2-5X"
+msgstr ""
 
 #. Key:	Attachment_HolographicSight_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
@@ -269,7 +274,7 @@ msgstr "Mikrokolimator"
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Attachment_PatrolRedDot_Name"
 msgid "Patrol RedDot"
-msgstr "Patrol RedDot"
+msgstr ""
 
 #. Key:	Attachment_WeaponFlashlight_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
@@ -325,7 +330,7 @@ msgstr "Gogle Noktowizyjne"
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Item_WalkieTalkie_Name"
 msgid "Walkie-Talkie"
-msgstr "Walkie-Talkie"
+msgstr ""
 
 #. Key:	Item_ZipTie_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
@@ -430,28 +435,28 @@ msgstr "Karta Zarządcy Strefy"
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,SCP_SCP-034_Name"
 msgid "SCP-034"
-msgstr "SCP-034"
+msgstr ""
 
 #. Key:	SCP_SCP-500_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,SCP_SCP-500_Name"
 msgid "SCP-500"
-msgstr "SCP-500"
+msgstr ""
 
 #. Key:	Weapon_AR-15_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Weapon_AR-15_Name"
 msgid "AR-15"
-msgstr "AR-15"
+msgstr ""
 
 #. Key:	Weapon_G6Pistol_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Weapon_G6Pistol_Name"
 msgid "G6 Pistol"
-msgstr "G6 Pistol"
+msgstr ""
 
 #. Key:	Weapon_M37Shotgun_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
@@ -465,14 +470,14 @@ msgstr "Strzelba M37"
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Weapon_SA-4_Name"
 msgid "SA-4"
-msgstr "SA-4"
+msgstr ""
 
 #. Key:	Weapon_UNP0_Name
 #. SourceLocation:	/Game/StringTables/ItemsTable.ItemsTable
 #: /Game/StringTables/ItemsTable.ItemsTable
 msgctxt "ItemTable,Weapon_UNP0_Name"
 msgid "UNP 0"
-msgstr "UNP 0"
+msgstr ""
 
 #. Key:	Intro_BasedOn
 #. SourceLocation:	/Game/StringTables/MainMenuTable.MainMenuTable
@@ -682,7 +687,7 @@ msgstr "Materiał"
 #: /Game/StringTables/SCPTable.SCPTable
 msgctxt "SCPTable,1048_MaterialCount"
 msgid "{0} materials"
-msgstr "{0} materials"
+msgstr ""
 
 #. Key:	1048_Pickup
 #. SourceLocation:	/Game/StringTables/SCPTable.SCPTable
@@ -773,7 +778,7 @@ msgstr "Nigdy"
 #: /Game/StringTables/SettingsTable.SettingsTable
 msgctxt "SettingsTable,Option_FPS"
 msgid "FPS"
-msgstr "FPS"
+msgstr ""
 
 #. Key:	Option_InputDevice
 #. SourceLocation:	/Game/StringTables/SettingsTable.SettingsTable
@@ -969,7 +974,7 @@ msgstr "Test Mikrofonu"
 #: /Game/StringTables/SettingsTable.SettingsTable
 msgctxt "SettingsTable,TestMicrophone_Start"
 msgid "Start"
-msgstr "Start"
+msgstr ""
 
 #. Key:	UI_ClassInfo_YouAre
 #. SourceLocation:	/Game/StringTables/UITable.UITable
