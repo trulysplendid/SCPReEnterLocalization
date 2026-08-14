@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: scp-reenter\n"
 "POT-Creation-Date: 2026-08-13 05:46\n"
-"PO-Revision-Date: 2026-08-13 10:54\n"
+"PO-Revision-Date: 2026-08-14 08:48\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Project-ID: 919951\n"
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /main/en/Game.po\n"
-"X-Crowdin-File-ID: 11\n"
+"X-Crowdin-File-ID: 17\n"
 
 #. Key:	Class_ChaosInsurgency_Name
 #. SourceLocation:	/Game/StringTables/ClassTable.ClassTable
